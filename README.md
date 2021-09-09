@@ -2,8 +2,6 @@
 
 Exercise for MSCH-C220, 9 September 2021
 
-A demonstration video of this exercise is available here: [https://youtu.be/NsSq-_W-BVI](https://youtu.be/NsSq-_W-BVI).
-
 This exercise is the first opportunity for you to play with keyboard and mouse input in Godot. The project will allow you to adjust the 2D rotation and position of a Node2D using player input. 
 
 Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-02b-Mouse-and-Keyboard. *Edit the LICENSE and replace BL-MSCH-C220-F21 with your full name.* Commit your changes.
